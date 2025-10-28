@@ -22,7 +22,7 @@ We followed this repository to cover all topics:
 
 ### 🧩 Class Assignment
 
-Work on the following **Prompt Design Projects**:
+Complete **any one** of the following **Prompt Design Projects**:
 
 1️⃣ **Personal Assistant:** Create prompts for scheduling and email drafting.  
 2️⃣ **Content Creation:** Develop templates for different types of writing.  

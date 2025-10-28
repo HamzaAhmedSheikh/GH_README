@@ -2,9 +2,9 @@
 
 ### 📌 Quarter 4 - Class 3
 
-The resources for today's class:
+The resources for today’s class:
 
-We had covered these topics in class:
+We covered the following topics in class:
 
 * **Advanced Prompting Strategies**  
 * **Best Practices for Effective Prompts**  
@@ -22,12 +22,13 @@ We followed this repository to cover all topics:
 
 ### 🧩 Class Assignment
 
-Work on the following **prompt design projects**:
+Work on the following **Prompt Design Projects**:
 
 1️⃣ **Personal Assistant:** Create prompts for scheduling and email drafting.  
 2️⃣ **Content Creation:** Develop templates for different types of writing.  
 3️⃣ **Data Analysis:** Build prompts for interpreting datasets.  
 4️⃣ **Code Review:** Create prompts for code analysis and improvement.  
+
 
 ## 💬 Community Links
 
@@ -52,7 +53,7 @@ All class recordings are uploaded on this channel:
 
 ## ⏰ Deadline
 
-**Complete before Saturday, coordinators will check the assignment in class.**
+**Before the next class**
 
 ---
 

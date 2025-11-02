@@ -12,7 +12,7 @@ We covered the following topics in class:
 * **Fundamental Prompting Techniques**
 
 We followed this repository to cover all topics:  
-🔗 [Learn Low Code Agentic AI - Prompt Engineering](https://github.com/panaversity/learn-low-code-agentic-ai/blob/main/00_prompt_engineering/readme.md)
+🔗 [Learn Low Code Agentic AI - Prompt Engineering](https://github.com/panaversity/learn-low-code-agentic-ai/blob/main/00_prompt_engineering/readme.md#what-is-prompt-engineering)
 
 ---
 
@@ -26,7 +26,6 @@ Your post should include:
 * A short explanation of both **CoT** and **ToT Prompting**
 * The **key differences** between the two methods  
 * One **real-world example or use case**
-* Tag your **class teachers** in the post  
 
 ---
 
@@ -67,3 +66,4 @@ All class recordings are uploaded on this channel:
 Stay consistent and keep learning! 🚀
 
 ---
+

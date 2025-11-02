@@ -1,50 +1,74 @@
-# Class Resources & Assignments
+# 📚 Class Resources & Assignments
 
-### Quarter 4 - Class 2
+### 📌 Quarter 4 - Class 4
 
 The resources for today’s class:
 
 We covered the following topics in class:
 
-* Advanced Prompting Strategies  
-* Best Practices for Effective Prompts  
-* Common Pitfalls and How to Avoid Them  
-* Testing and Iteration  
-* Advanced Tips for 2025  
-* Resources and Next Steps
+* **Mixture-of-Experts (MoE) and Prompt Engineering**  
+* **The 6-Part Prompting Framework**  
 
-We followed this repository to cover all topics:  
-[Learn Low Code Agentic AI - Prompt Engineering](https://github.com/panaversity/learn-low-code-agentic-ai/blob/main/00_prompt_engineering/readme.md)
+In **Context Engineering for AI Agents**, we covered the following topics:  
+- What is Context Engineering?  
+- Context Engineering vs Prompt Engineering  
+- When to Use Context Engineering  
+- The Six Essential Components of AI Agents  
 
----
-
-## Assignments
-
-### Class Assignment
-
-Complete any one of the following Prompt Design Projects:
-
-1. **Personal Assistant:** Create prompts for scheduling and email drafting.  
-2. **Content Creation:** Develop templates for different types of writing.  
-3. **Data Analysis:** Build prompts for interpreting datasets.  
-4. **Code Review:** Create prompts for code analysis and improvement.  
+We followed these repositories to cover all topics:  
+🔗 [Mixture-of-Experts (MoE) and Prompt Engineering](https://github.com/panaversity/learn-low-code-agentic-ai/blob/main/00_prompt_engineering/readme.md#mixture-of-experts-moe-and-prompt-engineering)  
+🔗 [The 6-Part Prompting Framework](https://github.com/panaversity/learn-low-code-agentic-ai/blob/main/00_prompt_engineering/six_part_prompting_framework.md)  
+🔗 [Context Engineering Tutorial](https://github.com/panaversity/learn-low-code-agentic-ai/blob/main/00_prompt_engineering/context_engineering_tutorial.md)
 
 ---
 
-### Sir Zia’s Assignment
+## 🎯 Assignments
 
-Watch this video where Sir Zia explains everything in detail:  
-[Watch on Facebook](https://www.facebook.com/share/v/1BQw4ysw2K/)
+### 🧩 Class Assignment
+
+Complete **any one** of the following **Prompt Design Projects** using the **6-Step Prompting Framework**:
+
+1️⃣ **Personal:** Meal planning, workout routines, travel itineraries  
+2️⃣ **Professional:** Business plans, marketing strategies, technical documentation  
+3️⃣ **Creative:** Content scripts, design briefs, storytelling frameworks  
+4️⃣ **Educational:** Study guides, research plans, learning curricula  
 
 ---
 
-## Community Links
+## 💬 Community Links
 
-* Discord: [Join here](https://discord.gg/h4e99CqV)  
-* WhatsApp (Saturday 2–5 batch): [Join here](https://chat.whatsapp.com/IZMvCG4Mv6RLC2HOY0CPsk)
+* **Discord:** [Join here](https://discord.gg/h4e99CqV)  
+* **WhatsApp (Saturday 2–5 batch):** [Join here](https://chat.whatsapp.com/IZMvCG4Mv6RLC2HOY0CPsk)
 
 ---
 
-## Connect with Teachers
+## 👨‍🏫 Connect with Teachers
 
-* Sir*
+* **Sir Ali Aftab:** [Linktree Profile](https://linktr.ee/aliaftabsheikh)  
+* **Sir Hamza:** [LinkedIn Profile](https://www.linkedin.com/in/iam-hamza/)
+
+---
+
+## 🎥 Class Recordings
+
+All class recordings are uploaded on this channel:  
+📺 [Information Technology with Arif - YouTube](https://www.youtube.com/@informationtechnologywitharif)
+
+---
+
+## ⏰ Deadline
+
+**Before the next class**
+
+---
+
+## 📌 Submission
+
+* Upload all assignments on **LinkedIn**  
+* Tag your **class teachers**
+
+---
+
+Stay consistent and keep learning! 🚀
+
+---

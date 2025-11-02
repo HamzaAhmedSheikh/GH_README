@@ -26,7 +26,7 @@ We followed these repositories to cover all topics:
 
 ### 🧩 Class Assignment
 
-Complete **any one** of the following **Prompt Design Projects** using the **6-Step Prompting Framework**:
+Complete **any one** of the following **Advanced Application** using the **6-Step Prompting Framework**:
 
 1️⃣ **Personal:** Meal planning, workout routines, travel itineraries  
 2️⃣ **Professional:** Business plans, marketing strategies, technical documentation  
@@ -72,3 +72,4 @@ All class recordings are uploaded on this channel:
 Stay consistent and keep learning! 🚀
 
 ---
+

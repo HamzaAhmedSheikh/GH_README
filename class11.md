@@ -1,10 +1,6 @@
----
-
 # 📚 Class Resources & Assignments
 
 ### 📌 Quarter 4 – Class 11
-
----
 
 ## The resources for today’s class
 

@@ -27,7 +27,6 @@ We covered the following topics in class:
 
 * **Practice Docker Commands (By Sir Ameen)**
   🧪 [Docker Hands-on Command Journey](https://github.com/Ameen-Alam/CNC-Docker/blob/master/hands-on-command-journey.md "Practice Docker Commands by Sir Ameen")
-
 ---
 
 ## 🎯 Assignments

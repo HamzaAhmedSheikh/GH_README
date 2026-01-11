@@ -31,7 +31,7 @@ We covered the following topics in class:
 
 ## 🎯 Assignments
 
-### 🧩 Class Assignment
+### 🧩 Class Assignment: FastAPI to Docker: Containerizing and Publishing Your First API
 
 Complete the following steps:
 

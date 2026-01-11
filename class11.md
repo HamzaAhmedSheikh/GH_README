@@ -2,7 +2,7 @@
 
 ### 📌 Quarter 4 – Class 11
 
-## The resources for today’s class
+The resources for today’s class:
 
 We covered the following topics in class:
 

@@ -1,5 +1,3 @@
----
-
 # 🚀 Multi-Service Frontend & Backend Setup Using Docker Compose
 
 ## 📌 Assignment Overview
@@ -12,8 +10,6 @@ You will learn how multiple services:
 * Share the same Docker network
 * Communicate with each other
 * Use **port binding** and **Docker volumes** in a real-world setup
-
----
 
 ## 🧠 Objective
 
